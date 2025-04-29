@@ -1,2 +1,2 @@
-# Datawarehouse_proj
+# SQL_Datawarehouse_proj
 using SQL to build a datawarehouse
