@@ -1,1 +1,1 @@
-
+--on Postgresql create the database 'dataWarehouse_main' and schemas 'bronze', 'silver', and 'gold'
