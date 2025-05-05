@@ -110,4 +110,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
+![image](https://github.com/user-attachments/assets/3f15dd0a-4c11-4f73-90a6-79e5c5926506)
 
