@@ -113,3 +113,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
 
 
+![image](https://github.com/user-attachments/assets/43c2f49a-10ae-484c-acff-383a536ba394)
