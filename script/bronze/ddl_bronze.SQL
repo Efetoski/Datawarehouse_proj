@@ -64,7 +64,7 @@ maintenance VARCHAR(50)
 Steps to Load CSV Dataset onto Tables
 =======================================================
 */
- >> Right-click the table > Import/Export Data.
+ # Right-click the table > Import/Export Data.
  > In the dialog:
  > Import/Export: Select "Import".
  > Filename: Choose the CSV file from your local disk.
