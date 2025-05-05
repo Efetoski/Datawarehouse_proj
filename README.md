@@ -110,5 +110,13 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-![image](https://github.com/user-attachments/assets/3f15dd0a-4c11-4f73-90a6-79e5c5926506)
-
+Silver Layer
+ - Clean and Standardise Data
+ - Prepare data for analysis
+ - Tables
+ - Full Load (Truncate and Insert)
+ - Data Cleaning
+ - Standardization
+ - Normalisation
+ - Derive Column
+ - data Enrichment
