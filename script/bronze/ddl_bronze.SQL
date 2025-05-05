@@ -65,14 +65,14 @@ Steps to Load CSV Dataset onto Tables
 =======================================================
 */
  # Right-click the table > Import/Export Data.
- > In the dialog:
- > Import/Export: Select "Import".
- > Filename: Choose the CSV file from your local disk.
- > Format: CSV.
- > Encoding: UTF-8 (typically).
- > Header: Check if your CSV has column names.
- > Delimiter: Usually comma ,.
- > Click OK to run.
+ # In the dialog:
+ # Import/Export: Select "Import".
+ # Filename: Choose the CSV file from your local disk.
+ # Format: CSV.
+ # Encoding: UTF-8 (typically).
+ # Header: Check if your CSV has column names.
+ # Delimiter: Usually comma ,.
+ # Click OK to run.
 /*
 =======================================================
 */
