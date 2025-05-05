@@ -73,5 +73,6 @@ Steps to Load CSV Dataset onto Tables
  > Header: Check if your CSV has column names.
  > Delimiter: Usually comma ,.
  > Click OK to run.
+/*
 =======================================================
-  
+*/
